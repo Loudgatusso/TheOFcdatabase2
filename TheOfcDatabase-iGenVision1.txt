@@ -1,0 +1,22 @@
+{
+  "bookname": "Pirâmide da sabedoria",
+  "publicado": "15 de março de 2023",
+  "avaliação": "4.8",
+  "escritor": "Brett McCracken",
+  "descrição": "https://raw.githubusercontent.com/Loudgatusso/Descri-o-1/main/Descriptiom.txt",
+  "image": "https://i.ibb.co/yyJ3tKs/Bookload.png",
+  "content": "https://raw.githubusercontent.com/Loudgatusso/Cont.-Do-livro1/main/A-pir%C3%A2mide-da-sabedoria.txt",
+  "editora": "Thomas nelson brasil",
+  "páginas": "208"
+}§
+{
+  "bookname": "história da igreja cristã",
+  "publicado": "21 de junho de 1999",
+  "avaliação": "4.8",
+  "escritor": "Jesse L. hurlbut",
+  "descrição": "https://raw.githubusercontent.com/Loudgatusso/Descri-o2/main/Descri.txt",
+  "image": "https://i.ibb.co/pr4QM3s/Bookload-1.png",
+  "content": "https://raw.githubusercontent.com/Loudgatusso/Book2/main/Jesse-Lyman-Hurlbut-Hist%C3%B3ria-da-Igreja-Crist%C3%A3.txt",
+  "editora": "Vida publishers",
+  "páginas": "208"
+}§
